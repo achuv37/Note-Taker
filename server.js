@@ -49,6 +49,7 @@ app.delete("/api/notes/:id", (req, res) => {
   fs.writeFileSync('./db/db.json', noteString, err => {
     res.json(err);
   });
+  res.json(notes);
 });
 
 // Home page
