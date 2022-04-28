@@ -18,6 +18,10 @@ https://desolate-citadel-96504.herokuapp.com/
 * Express.js
 
 ## Images
+![notetaker1](https://user-images.githubusercontent.com/93412486/165785953-51a14395-4e44-49f4-8aaf-cf1ee890d2b1.PNG)
+![Note taker2](https://user-images.githubusercontent.com/93412486/165786009-e3d0b4ad-d26a-4559-9ae5-1fd835369e12.PNG)
+
+
 
 ## Video
 
