@@ -1,5 +1,5 @@
 # Note Taker 
-The Note-taking App we will work on is a web application that allows the user to input text and deletes the inputted texts.
+The Note-taking App we will work on is a web application that allows the user to input text and deletes the saved notes.
 ## Description 
 
 * This note taking application allows us to save notes with a title and plain text.The Note Taker app makes creating, viewing, and deleting notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
